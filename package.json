@@ -1,0 +1,24 @@
+{
+  "name": "hello-js-action-alu0101017396",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-PL-2021/hello-js-action-alu0101017396.git"
+  },
+  "keywords": [],
+  "author": "Alberto Rodriguez Fuentes <alu0101017396@ull.edu.es> (https://github.com/alu0101017396)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-alu0101017396/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-alu0101017396#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0"
+  }
+}
